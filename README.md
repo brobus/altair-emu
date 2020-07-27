@@ -1,2 +1,2 @@
 # altair-emu
-Altair 8800 Emulator
+An Altair 8800 Emulator
