@@ -1,4 +1,5 @@
 == Essential ==
+
 Authentic 8080 CPU Emulation
 Interactable front panel interface
 Keyboard Input
@@ -9,5 +10,6 @@ Ability to load external data via:
   paper tape .txt files 
   
   == Back Burner ==
+  
   Loading by casette, presumably .mp3 files?
   
